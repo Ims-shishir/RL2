@@ -52,6 +52,4 @@ plt.title("Score-rewards")
 plt.show()
 
 
-#dqn_agent.save_weights('SavedWeights/try200k/try200k.h5f')
-#del model, dqn_agent
-#dqn_agent.load_weights('SavedWeights/try1.h5f')
+
